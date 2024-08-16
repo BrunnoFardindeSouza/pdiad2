@@ -1,0 +1,20 @@
+.conteudoTexto {
+  font-family: cursive;
+  width: 100%;
+  display: flex;
+  min-height: 400px;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff58;
+  border-top: 2px solid #000000c2;
+  border-bottom: 2px solid white;
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
+.conteudoTexto p {
+  margin: auto;
+  max-width: 90%;
+  text-indent: 30px;
+  line-height: 30px;
+  text-align: justify;
+}
